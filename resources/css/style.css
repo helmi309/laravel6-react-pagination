@@ -1,0 +1,3 @@
+.pagination li { float:left; padding: 5px; cursor: pointer;}
+.pagination .active a{ color: red;};
+.pagination .disabled a{ color: yellow;};
